@@ -6,6 +6,8 @@
 
   
 ## Setelah selesai melakukan Cloning lanjutkan perintah
+    cd [Nama Folder]
+### lalu
     composer install
 ### lalu
 
